@@ -1,0 +1,10 @@
+bateria=Almacenador de energia
+cache=memoria donde se almacenan cosas de uso desechable en una aplicacion
+aplicacion= Software el cual ayuda en algun area en especifica
+arroba=Simbolo el cual esta compuesto los correos electronicos.
+backup=Copia de seguridad
+data=donde se guardan los datos
+Webcam=camara en la cual viene incorporada a los dispotivios donde puedes sacarte fotos o grabarte
+mouse=Dispositivo para manejar el computador.
+auriculares=Aparato para escuchar el sonido del computador.
+teclado=Artefacto o software para escribir en el dispositivo.
