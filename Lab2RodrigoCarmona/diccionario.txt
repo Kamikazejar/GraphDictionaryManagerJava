@@ -8,3 +8,4 @@ Webcam=camara en la cual viene incorporada a los dispotivios donde puedes sacart
 mouse=Dispositivo para manejar el computador.
 auriculares=Aparato para escuchar el sonido del computador.
 teclado=Artefacto o software para escribir en el dispositivo.
+ia=Inteligencia Artificial entrenada con millones de terabytes de datos
